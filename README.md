@@ -1,33 +1,71 @@
-# Portfolio Website
+# Personal Portfolio Website
 
-This is a basic portfolio website that showcases the user's work and skills. It is structured to allow for easy expansion and customization.
+A modern, responsive portfolio website showcasing my projects and skills. Built with HTML5, CSS3, and JavaScript.
 
-## Project Structure
+## Features
 
-- **src/assets/css/**: Contains the CSS files for styling the website.
-  - `style.css`: Main styles for layout and typography.
-  - `normalize.css`: CSS reset for consistent rendering across browsers.
-  
-- **src/assets/js/**: Contains JavaScript files for interactivity.
-  - `main.js`: JavaScript code for handling dynamic content.
+- 🌓 Dark/Light mode toggle
+- 🎨 Animated gradients and transitions
+- 📱 Fully responsive design
+- 🎯 Project showcase with GitHub links
+- 💼 Professional timeline
+- 🎐 Material Design 3 inspired UI
 
-- **src/components/**: Contains reusable HTML components.
-  - `header.html`: Structure for the website's header.
-  - `footer.html`: Structure for the website's footer.
-  - `nav.html`: Structure for the navigation menu.
+## Projects Featured
 
-- **src/pages/**: Contains the main pages of the website.
-  - `index.html`: Main landing page.
-  - `about.html`: Information about the user.
-  - `projects.html`: Showcase of user projects.
-  - `contact.html`: Contact information and form.
+### Currency Converter
+- Python-based currency conversion tool
+- Built with Tkinter and Forex API
+- Calculator-style widget interface
+- [View on GitHub](https://github.com/Electro9109/Currency_Converter)
 
-## Setup Instructions
+### Quiz App
+- CS50 Final Project
+- Built with Python, Flask, and SQL
+- Custom question and answer management
+- [View on GitHub](https://github.com/Electro9109/quiz-app)
 
-1. Clone the repository.
-2. Navigate to the project directory.
-3. Open `index.html` in a web browser to view the portfolio website.
+## Directory Structure
+
+```
+Portfolio/
+├── index.html
+├── README.md
+└── src/
+    ├── docs/
+    │   ├── about.html
+    │   └── projects.html
+    ├── assets/
+    │   ├── css/
+    │   │   ├── style.css
+    │   │   └── normalize.css
+    │   ├── js/
+    │   │   └── main.js
+    │   └── images/
+    └── components/
+```
+
+## Technologies Used
+
+- HTML5
+- CSS3 (Custom properties, Flexbox, Grid)
+- JavaScript (ES6+)
+- Material Design 3 principles
+
+## Setup and Development
+
+1. Clone the repository:
+```bash
+git clone https://github.com/yourusername/Portfolio.git
+```
+
+2. Navigate to the project directory:
+```bash
+cd Portfolio
+```
+
+3. Open `index.html` in your browser or use a local server
 
 ## License
 
-This project is open-source and available under the MIT License.
+MIT © [Kommuri Aravind]

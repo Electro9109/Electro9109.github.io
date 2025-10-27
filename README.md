@@ -68,4 +68,4 @@ cd Portfolio
 
 ## License
 
-MIT © [Kommuri Aravind]
+[Kommuri Aravind]
